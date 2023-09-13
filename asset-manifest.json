@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rudrapratap.github.io/static/css/main.4f9b8699.css",
+    "main.js": "/rudrapratap.github.io/static/js/main.23fca64d.js",
+    "static/media/hero.jpg": "/rudrapratap.github.io/static/media/hero.c3271c677697c7de0687.jpg",
+    "static/media/me4.jpg": "/rudrapratap.github.io/static/media/me4.4be3152cacef555ae1e0.jpg",
+    "static/media/bdome.jpeg": "/rudrapratap.github.io/static/media/bdome.4ffc9b76610f57dff9ed.jpeg",
+    "index.html": "/rudrapratap.github.io/index.html",
+    "main.4f9b8699.css.map": "/rudrapratap.github.io/static/css/main.4f9b8699.css.map",
+    "main.23fca64d.js.map": "/rudrapratap.github.io/static/js/main.23fca64d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f9b8699.css",
+    "static/js/main.23fca64d.js"
+  ]
+}
